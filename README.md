@@ -1,6 +1,6 @@
 hi I'm David Amadasun, 👋
-i'm a full stack developer
-i'm currently learning game development on unity 
+i'm a full stack developer &
+i'm a game developer on unity
 
 you can reach me on LinkedIn https://www.linkedin.com/in/david-amadasun-079a42241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
